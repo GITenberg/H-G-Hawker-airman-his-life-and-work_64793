@@ -1,11 +1,16 @@
 _repo: H-G-Hawker-airman-his-life-and-work_64793
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64793-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Hawker, Muriel
     gutenberg_agent_id: '53053'
     url: http://www.gutenberg.org/2009/agents/53053
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64793#H-G-Hawker-airman-his-life-and-work
 gutenberg_issued: '2021-03-11'
 gutenberg_type: Text
 identifiers:
